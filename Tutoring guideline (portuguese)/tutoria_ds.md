@@ -14,7 +14,37 @@ A motivação é para o tutor saber porque aquela atividade faz sentido naquele 
 
 A descrição é o texto sugerido para passar pro aluno na ferramenta utilizada para registrar as atividades. Eu sugiro usar o Trello: ele tem uma estrutura estilo Kanban que você pode organizar os cards, bem parecido com o como utilizamos o Jira.
 
-# Atividades
+# Atividades recorrentes
+
+## A) HackerRank
+
+### A.1) Requisitos sugeridos
+
+Atividade 2.
+
+### A.2) Motivação
+
+O HackerRank tem várias playlists interessantes que te ensinam com exercícios sobre particularidades do Python. Você conhece estrutura de dados não triviais enquanto revisita as que você acha que já domina aprendendo formas novas de trabalhar com. Variações dessa ferramentas costumam ser utilizadas em processos seletivos.
+
+### A.3) Descrição
+
+Fazer pelo menos 1 hora de atividades propostas nas playlists de Python do [HackerRank](https://www.hackerrank.com/domains/python) toda semana. Rapidinho você já vai ter visto a maioria dos tipos relevantes e eles vão te ajudar a deixar seu código mais Pythonic. 
+
+## B) Stratascratch
+
+### B.1) Requisitos sugeridos
+
+Atividade -.
+
+### B.2) Motivação
+
+Pandas é uma biblioteca que você só vai dominar se utilizar muito. A ideia aqui é ter alguns exercícios mais ou menos clássicos para estar se familiarizando com as funções clássicas.
+
+### B.3) Descrição
+
+Fazer pelo menos 0.5 horas de atividades propostas utilizando Pandas do [Stratascratch]([stratascratch.com](http://stratascratch.com/)) toda semana. Você consegue resolver em SQL também e é um lugar bacana para isso também.
+
+# Atividades "Sequenciais"
 
 ## 1) Instalar Python (pelo Anaconda)
 
@@ -43,10 +73,9 @@ Python é A LINGUAGEM para DS. Muitas bibliotecas boas prontas e a maioria das e
 
 ### 2.3) Descrição 
 
-[Learn Python Tutorials](https://www.kaggle.com/learn/python)
-Tempo estimado de 5 horas.
+[Learn Python Tutorials](https://www.kaggle.com/learn/python). Tempo estimado de 5 horas.
 
-## 3) Primeira aula do curso (básico) do Andrew
+## 3) Aula introdutória do curso (básico) do Andrew
 
 ### 3.1) Requisitos sugeridos
 
@@ -58,10 +87,10 @@ Aqui o didático Andrew apresenta os tipos de aprendizado e dá exemplos legais.
 
 ### 3.3) Descrição
 
-[Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-Lecture 1.1 What Is Machine Learning (7 min)
-Lecture 1.2 — Supervised Learning (13 min)
-Lecture 1.3 — Unsupervised Learning (14 min)
+- [Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- Lecture 1.1 What Is Machine Learning (7 min)
+- Lecture 1.2 — Supervised Learning (13 min)
+- Lecture 1.3 — Unsupervised Learning (14 min)
 
 ## 4) Aula de Regressão Linear do curso (básico) do Andrew
 
@@ -75,27 +104,146 @@ Regressão Linear é o algoritmo mais simples possível de aprendizado de máqui
 
 ### 4.3) Descrição
 
-[Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-Lecture 2.1 — Linear Regression With One Variable | Model Representation (8:11)
-Lecture 2.2 — Linear Regression With One Variable | CostFunction (8:13)
-Lecture 2.3 — Linear Regression With One Variable | Cost Function Intuition (11:10)
-Lecture 2.4 — Linear Regression With One Variable | Cost Function Intuition #2 (8:49)
-Lecture 2.5 — Linear Regression With One Variable | Gradient Descent (11:31)
-Lecture 2.6 — Linear Regression With One Variable | Gradient Descent Intuition (11:52)
-Lecture 2.7 — Linear Regression With One Variable | Gradient Descent For Linear Regression (10:21)
-Lecture 2.8 — What's Next (5:50)
+- [Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- Lecture 2.1 — Linear Regression With One Variable | Model Representation (8:11)
+- Lecture 2.2 — Linear Regression With One Variable | CostFunction (8:13)
+- Lecture 2.3 — Linear Regression With One Variable | Cost Function Intuition (11:10)
+- Lecture 2.4 — Linear Regression With One Variable | Cost Function Intuition #2 (8:49)
+- Lecture 2.5 — Linear Regression With One Variable | Gradient Descent (11:31)
+- Lecture 2.6 — Linear Regression With One Variable | Gradient Descent Intuition (11:52)
+- Lecture 2.7 — Linear Regression With One Variable | Gradient Descent For Linear Regression (10:21)
+- Lecture 2.8 — What's Next (5:50)
 
-## 5) Curso de básico de ML do Kaggle Learn
+## 5) Introdução ao Numpy
 
 ### 5.1) Requisitos sugeridos
 
-Atividades 2, 3, 4.
+Atividade 2.
 
 ### 5.2) Motivação
 
-Esse curso do Kaggle mostra o básico do sklearn. É bem útil pra já ir dando uma noção de próximos passos.
+Numpy é a principal ferramenta para mexer em matrizes no Python. Todas as outras bibliotecas são construídas em cima dela. É primordial entender o básico e eventualmente masterizar.
 
 ### 5.3) Descrição
 
-[Learn Intro to Machine Learning Tutorials](https://www.kaggle.com/learn/intro-to-machine-learning)
-Tempo estimado de 3 horas.
+- Numpy in 5 min: [Learn NUMPY in 5 minutes - BEST Python Library!](https://youtu.be/xECXZ3tyONo)(20 min)
+
+- Se precisar ver mais, esse vídeo aqui também é interessante: [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://youtu.be/GB9ByFAIAH4) (1 hora)
+
+## 6) Implementing from ground up: Regressão Linear Simples
+
+### 6.1) Requisitos sugeridos
+
+Atividades 2, 3, 4 e 5.
+
+### 6.2) Motivação
+
+Essa atividade é uma forma de colocar em prática tudo que vimos até agora. 
+
+### 6.3) Descrição
+
+- Utilizando Python (principalmente o numpy), você deve construir uma função que recebe seu conjunto de dados X_train, y_train e retorna os pesos de uma regressão linear simples (ou seja, X_train é unidimensional), utilizando gradiente descendente para fazer esse cálculo, como visto no curso do Andrew. Pode criar o seu conjunto X_train, y_train como quiser, mas seu código deve ser robusto o suficiente para poder trocar os valores e continuar rodando da forma correta.
+- Defina critérios de parada que você achar apropriado para o gradiente descendente.
+- Em seguida, com os pesos calculados, você deverá fazer uma função que prevê os y para um conjunto X qualquer.
+- Pode ser interessante utilizar algumas bibliotecas gráficas para visualizar o que você está fazendo. A mais famosa, e que eu mais gosto é o matplotlib. Nessa [playlist do Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) temos demonstrações de vários gráficos úteis.
+
+## 7) Curso de básico de ML do Kaggle Learn
+
+### 7.1) Requisitos sugeridos
+
+Atividades 2, 3 e 4.
+
+### 7.2) Motivação
+
+Tirando problemas específicos, o dia a dia do cientista de dados não é criando os modelos do zero. O scikit-learn é uma das mais robustas bibliotecas com dezenas de modelos já construídos seguindo os melhores padrões de desenvolvimento de software. Tem uma comunidade Open Source incrível que dá suporte e guia os desenvolvimentos dela. Esse curso do Kaggle é um primeiro contato com o scikit-learn. Pra começar a entender a ideia de fit/predict.
+
+### 7.3) Descrição
+
+[Learn Intro to Machine Learning Tutorials](https://www.kaggle.com/learn/intro-to-machine-learning). Tempo estimado de 3 horas.
+
+## 8) Introdução à Programação Orientada à Objetos (POO)
+
+### 8.1) Requisitos sugeridos
+
+Atividade 7.
+
+### 8.2) Motivação
+
+A orientação orientada à objetos é o paradigma de programação principal do Python. A forma de abstração  que ele nos oferece é muito poderosa e permite construir códigos complexos de uma forma estruturada e reaproveitável, com manutenção facilitada. A ideia dessa atividade não é ficar um mestre em POO, mas conhecer por cima a ideia para saber que existe e entender que o scikit-learn e outras bibliotecas do Python utilizam ela. No futuro, esse tópico pode ser revisto, entendendo agora a utilização de heranças e boas práticas (como os princípios SOLID).  
+
+### 8.3) Descrição
+
+- [Python OOP Tutorial 1: Classes and Instances](https://youtu.be/ZDa-Z5JzLYM) (15 min)
+- Extra: uma discussão sobre diferentes formas de se programar (paradigmas): [1.1 - Programação Funcional em Haskell: Paradigmas de Programação](https://youtu.be/CzGSaXbPFRA) (27 min) - O Python tem várias coisas bem úteis de programação funcional então é legal conhecer por cima as ideias também.
+
+## 9) Aula de revisão de matrizes do curso (básico) do Andrew
+
+### 9.1) Requisitos sugeridos
+
+Atividade 4.
+
+### 9.2) Motivação
+
+Operações com matrizes são muito importantes para otimizar a computação de redes neurais. No curto prazo, vai facilitar a representação da regressão linear multivariada.
+
+### 9.3) Descrição
+
+- [Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- Lecture 3.1 — Linear Algebra Review | Matrices And Vectors - 8:46
+- Lecture 3.2 — Linear Algebra Review | Addition And Scalar Multiplication - 6:54
+- Lecture 3.3 — Linear Algebra Review | Matrix Vector Multiplication - 13:40
+- Lecture 3.4 — Linear Algebra Review | Matrix-Matrix Multiplication - 11:10
+- Lecture 3.5 — Linear Algebra Review | Matrix Multiplication Properties - 9:03
+- Lecture 3.6 — Linear Algebra Review | Inverse And Transpose - 11:14
+
+## 10) Aula de Regressão Linear Multivariada (e polinomial) do curso (básico) do Andrew
+
+### 10.1) Requisitos sugeridos
+
+Atividade 9.
+
+### 10.2) Motivação
+
+Na vida real vamos utilizar dezenas, centenas, milhares de variáveis para fazer nossas previsões.
+
+### 10.3) Descrição
+
+- [Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- Lecture 4.1 — Linear Regression With Multiple Variables - (Multiple Features) - 8:23
+- Lecture 4.2 — Linear Regression With Multiple Variables -- (Gradient Descent For Multiple Variables) - 5:05
+- Lecture 4.3 — Linear Regression With Multiple Variables | Gradient In PracticeaI Feature Scaling - 8:53
+- Lecture 4.4 — Linear Regression With Multiple Variables | Gradient In PracticeaI | Learning Rate - 8:59
+- Lecture 4.5 — Linear Regression With Multiple Variables | Features And Polynomial Regression - 7:40
+- Lecture 4.6 — Linear Regression With Multiple Variables | Normal Equation - 16:18
+- Lecture 4.7 — Linear Regression With Multiple Variables | Normal Equation Non Invertibility - 5:59
+
+## 11) Implementing from ground up: Regressão Linear Multivariada + POO
+
+### 11.1) Requisitos sugeridos
+
+Atividades 8 e 10.
+
+### 11.2) Motivação
+
+A ideia aqui é ficar um pouco mais familiar com a forma como o scikit-learn funciona, treinando POO.
+
+### 11.3) Descrição
+
+A ideia dessa atividade é estruturar de forma mais elegante o que você fez na atividade 8, colocando dentro de uma classe, ao mesmo tempo que você tenta generalizar a regressão linear para uma dimensão qualquer.
+
+## 12) Introdução ao Pandas
+
+### 12.1) Requisitos sugeridos
+
+Atividade 5.
+
+### 12.2) Motivação
+
+Pandas é a biblioteca de manipulações mais utilizada para estruturar seus dados em Python. Aliada ao Spark e ao SQL, você terá um stack muito robusto para as diferentes tarefas e cenários de manipulação de dados. Masterizar o Pandas é talvez a mais importante na prática e ajudará a aprender as outras com mais facilidade.
+
+### 12.3) Descrição
+
+- [Pandas for Data Science in 20 Minutes | Python Crash Course](https://www.youtube.com/watch?v=tRKeLrwfUgU) (23 min) 
+- [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://youtu.be/vmEHCJofslg)  (~1 hora) 
+- [Python pandas — An Opinionated Guide](https://youtube.com/playlist?list=PLgJhDSE2ZLxaENZWWF_VOUa5886KiUd15) (~2 horas)
+
