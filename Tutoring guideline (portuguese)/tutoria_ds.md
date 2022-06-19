@@ -1,5 +1,14 @@
 # Uma sugestão de estudos para mentoria em Data Science
 
+## Pré-requisitos esperados do mentorado
+
+- **Probabilidade**: A linguagem de Aprendizado de Máquina é intrinsicamente probabilística. É necessário que o mentorado esteja confortável com os conceitos básicos de probabilidade (no mínimo em um [nível introdutório do assunto](https://gradmat.ufabc.edu.br/disciplinas/ipe/)). Isso significa, conhecer a definição (ingênua) de espaço de probabilidade, entender sobre probabilidade condiciona e independência, variáveis aleatórias discretas e contínuas, conhecer as principais distribuições de variáveis aleatórias e saber calcular esperanças, variâncias e correlações. Caso esse assunto seja intimidador ainda, é sugerido uma revisão detalhada dos tópicos seguindo, por exemplo, o curso [Introdução à Probabilidade e Estatístíca (IPE) do professor Rafael Grisi da UFABC](https://www.youtube.com/channel/UCKGYUbUHWSDr8pFaDd7JWCg/videos).
+- **Lógica de programação**: Não é esperado que o mentorado já tenha utilizado Python, mas aguarda-se que já tenha experiência prévia com programação em outra linguagem e esteja confortável com as estruturas de repetição, condições e operadores lógicos, além de algumas estruturas de dados básicas como listas, vetores e strings. Se esse não for o caso do mentorado, o curso de [introdução à programação do Kaggle](https://www.kaggle.com/learn/intro-to-programming) pode ser um bom começo. Se ainda assim, for necessário gastar mais tempo vendo esses tópicos, aulas selecionadas da [playlist de Python do Curso em Vídeo](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) podem ser uma boa referência.
+
+## Ensinamentos do HDFS: redundância é importante
+
+Durante esse guia de materiais de mentoria, por selecionar partes específicas de cursos diferentes, vários assuntos podem ser vistos em repetição com uma abordagem ligeiramente diferente. Isso é intencional. Acredito que para formentar essa base da forma mais robusta possível, é importante que os assuntos realmente estejam absorvidos e vê-los algumas vezes reforça isso.  
+
 ## 0) Como usar esse guia de atividades de tutoria?
 
 ### 0.1) Requisitos sugeridos
@@ -247,3 +256,67 @@ Pandas é a biblioteca de manipulações mais utilizada para estruturar seus dad
 - [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://youtu.be/vmEHCJofslg)  (~1 hora) 
 - [Python pandas — An Opinionated Guide](https://youtube.com/playlist?list=PLgJhDSE2ZLxaENZWWF_VOUa5886KiUd15) (~2 horas)
 
+## 13) Algumas métricas de regressão
+
+### 13.1) Requisitos sugeridos
+
+Atividade 10.
+
+### 13.2) Motivação
+
+pass
+
+### 13.3) Descrição
+
+- [Regression Metrics Review I - How to Win a Data Science Competition Learn from Top Kagglers](https://www.bilibili.com/video/BV117411y7Fa?p=30)
+- [Regression Metrics Review II - How to Win a Data Science Competition Learn from Top Kagglers](https://www.bilibili.com/video/BV117411y7Fa?p=31)
+
+## 14) Aula de Regressão Logística do curso (básico) do Andrew
+
+### 14.1) Requisitos sugeridos
+
+Atividade 10.
+
+### 14.2) Motivação
+
+pass
+
+### 14.3) Descrição
+
+- [Machine Learning — Andrew Ng, Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- Lecture 6.1 — Logistic Regression | Classification - 8:09
+- Lecture 6.2 — Logistic Regression | Hypothesis Representation - 7:25
+- Lecture 6.3 — Logistic Regression | Decision Boundary - 14:50
+- Lecture 6.4 — Logistic Regression | Cost Function - 11:26
+- Lecture 6.5 — Logistic Regression | Simplified Cost Function And Gradient Descent - 10:15
+- Lecture 6.6 — Logistic Regression | Advanced Optimization - 14:07
+- Lecture 6.7 — Logistic Regression | MultiClass Classification OneVsAll - 6:16
+
+## 15) Algumas métricas de classificação
+
+### 15.1) Requisitos sugeridos
+
+Atividade 14.
+
+### 15.2) Motivação
+
+pass
+
+### 15.3) Descrição
+
+- [The 5 Classification Evaluation metrics every Data Scientist must know](https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226)
+- [Classification Metrics Review - How to Win a Data Science Competition Learn from Top Kagglers](https://www.bilibili.com/video/BV117411y7Fa?p=32)
+
+## 16) Capítulo/Aula 2 do livro/curso Introduction to Statistical Learning
+
+### 16.1) Requisitos sugeridos
+
+pass
+
+### 16.2) Motivação
+
+O livro [ISL](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)...
+
+### 16.3) Descrição
+
+- 
