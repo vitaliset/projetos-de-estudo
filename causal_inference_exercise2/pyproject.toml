@@ -13,8 +13,10 @@ matplotlib = "3.6.2"
 scikit-learn = "1.2.2"
 tqdm = "4.64.1"
 jupyter = "^1.0.0"
-pgmpy = "^0.1.22"
 daft = "^0.1.2"
+pgmpy = "^0.1.22"
+lightgbm = "^3.3.5"
+category-encoders = "^2.6.1"
 
 
 [build-system]
